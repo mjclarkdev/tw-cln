@@ -1,0 +1,22 @@
+{
+  "name": "tw-cln",
+  "version": "0.0.0",
+  "description": "a twitter clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjclarkdev/tw-cln.git"
+  },
+  "author": "michael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjclarkdev/tw-cln/issues"
+  },
+  "homepage": "https://github.com/mjclarkdev/tw-cln#readme",
+  "dependencies": {
+    "fastify": "^2.12.1"
+  }
+}
